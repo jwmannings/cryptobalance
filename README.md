@@ -3,7 +3,8 @@ Stay tuned for updates.
 
 
 ### Features currently added
-* Bittex balance
+* Bittex balance - tested
+* Binance balance - tested
 
 ### Features in Development
 * Poloniex API
@@ -19,6 +20,8 @@ Stay tuned for updates.
 Currently using the following packages and libraries (subject to constant change):
 * Bittrex
 * pandas
+* pip install python-binance
+
 
 
 ## In the highly unlikely event you want to support dev:
